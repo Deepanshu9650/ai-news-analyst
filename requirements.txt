@@ -1,0 +1,5 @@
+streamlit
+requests
+langchain-groq
+langchain-core
+groq
